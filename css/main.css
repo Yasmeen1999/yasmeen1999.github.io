@@ -4,7 +4,7 @@ background-color: aliceblue;
 
 .content{
     grid-area: content;
-    background:url('./images/bgimg.jpg')
+    background: url('images/bgimg.jpg');
 }
 .sidebar{
     grid-area: sidebar;
@@ -13,6 +13,11 @@ background-color: aliceblue;
     rgba(218,103,230,1),
     rgba(130,125,253,1));
     justify-content: center;
+}
+.footer{
+    grid-area: footer;
+    background: aliceblue;
+
 }
 .container{
     font-size: 1.5em;
@@ -28,7 +33,7 @@ background-color: aliceblue;
 }
 .content,
 .sidebar,
-.footer{
+.footer {
     padding: 1em;
 }
 nav ul{
@@ -85,12 +90,6 @@ nav li a:hover{
     border-radius: 40px;
     margin: 1em 0;
     transition: 0.3s
-}
-
-.footer{
-    grid-area: footer;
-    background: aliceblue;
-
 }
 
 .action-btn:hover {
@@ -172,6 +171,7 @@ footer ul li a{
         max-width: 960px;
         margin: 0 auto;
         padding: 2em 0;
+
     }
     
     }

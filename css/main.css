@@ -1,5 +1,6 @@
 body{
 background-color: aliceblue;
+
 }
 
 .content{
@@ -78,14 +79,14 @@ nav li a:hover{
 .hero p{
     font-weight: 300;
     line-height: 1.8em;
-    color: #98a0ad;
+    color:purple;
 }
 .action-btn{
     display: inline-block;
     text-decoration: none;
     color: white;
     font-weight: 700;
-    background: #867bfb;
+    background: purple;
     padding: 0.5em 2em;
     border-radius: 40px;
     margin: 1em 0;
@@ -96,25 +97,7 @@ nav li a:hover{
     box-shadow: 0 10px 50px rgba(188,197,216,1);
 }
 
-/* footer ul{
-    max-width: 640px;
-    margin: 2em auto;
-    padding: 0;
-    text-align: center;
-    display: flex;
-    flex-direction: row;
-}
 
-footer ul li {
-    list-style: none;
-    align-self: flex-end;
-
- }
- 
-footer ul li a{
-    text-decoration: none;
-    color:black;
-} */
 
 .ref
 {

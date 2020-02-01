@@ -119,6 +119,71 @@ nav li a:hover{
     font-size: 25px;
     align-items: center;
 }
+ /*contact page*/
+ .contact{
+    padding-left: 30px;
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+
+}
+
+.contact  h1{
+    padding-top:50px;
+    color:#373d46;
+    
+ }
+ .contact h4{
+
+     padding-top: 0px;
+     line-height: 30px;
+     color: #373d46;
+ }
+ .button1{
+     width: 10%;
+     height: 5vh;
+     color: white;
+     background-color: blueviolet;
+     border-radius: 20px;
+     border-color: 10px solid blueviolet;
+     
+ }
+ /*skills*/
+ .skills{
+     padding: 30px;
+     line-height: 30px;
+     color: #373d46;
+     background-color: aliceblue;
+ }
+ .button2{
+    width: 10%;
+    height: 5vh;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 20px;
+    border-color: 10px solid blueviolet;
+    
+}
+/*ABOUT*/
+.about{
+    padding: 30px;
+    line-height: 30px;
+    color: #373d46;
+    background-color: aliceblue;
+    
+}
+.button3{
+   width: 10%;
+   height: 5vh;
+   color: white;
+   background-color: blueviolet;
+   border-radius: 20px;
+   border-color: 10px solid blueviolet;
+   
+}
+.about p{
+   font-size: 20px;
+}
 
 @media( min-width:1040px) {
     .container{
@@ -166,68 +231,4 @@ nav li a:hover{
         padding: 2em 0;
 
     }
-    /*contact page*/
- .contact{
-        padding-left: 30px;
-        width: 100%;
-        height: 100vh;
-        background-color: aliceblue;
-    
-    }
-    
-    .contact  h1{
-        padding-top:50px;
-        color:#373d46;
-        
-     }
-     .contact h4{
    
-         padding-top: 0px;
-         line-height: 30px;
-         color: #373d46;
-     }
-     .button1{
-         width: 10%;
-         height: 5vh;
-         color: white;
-         background-color: blueviolet;
-         border-radius: 20px;
-         border-color: 10px solid blueviolet;
-         
-     }
-     /*skills*/
-     .skills{
-         padding: 30px;
-         line-height: 30px;
-         color: #373d46;
-         background-color: aliceblue;
-     }
-     .button2{
-        width: 10%;
-        height: 5vh;
-        color: white;
-        background-color: blueviolet;
-        border-radius: 20px;
-        border-color: 10px solid blueviolet;
-        
-    }
-    /*ABOUT*/
-    .about{
-        padding: 30px;
-        line-height: 30px;
-        color: #373d46;
-        background-color: aliceblue;
-        
-    }
-    .button3{
-       width: 10%;
-       height: 5vh;
-       color: white;
-       background-color: blueviolet;
-       border-radius: 20px;
-       border-color: 10px solid blueviolet;
-       
-   }
-   .about p{
-       font-size: 20px;
-   }

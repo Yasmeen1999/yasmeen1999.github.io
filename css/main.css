@@ -131,12 +131,13 @@ nav li a:hover{
 .contact  h1{
     padding-top:50px;
     color:#373d46;
+    font-size: 30px;
     
  }
- .contact h4{
+ .contact p{
 
      padding-top: 0px;
-     line-height: 30px;
+     line-height: 25px;
      color: #373d46;
  }
  .button3{
@@ -162,7 +163,13 @@ nav li a:hover{
     background-color: blueviolet;
     border-radius: 20px;
     border: 1px solid blueviolet;
-    
+}
+.skills h1{
+    font-size: 25px;
+
+}
+.skills p{
+    font-size: 14px;
 }
 /*ABOUT*/
 .about{
@@ -181,8 +188,11 @@ nav li a:hover{
    border: 1px solid blueviolet;
    
 }
+.about h1{
+    font-size: 30px;
+}
 .about p{
-   font-size: 20px;
+   font-size: 17px;
 }
 
 @media( min-width:1040px) {

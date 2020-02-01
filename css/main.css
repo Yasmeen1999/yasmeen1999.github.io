@@ -139,8 +139,8 @@ nav li a:hover{
      line-height: 30px;
      color: #373d46;
  }
- .button1{
-     width: 10%;
+ .button3{
+     width: 30%;
      height: 5vh;
      color: white;
      background-color: blueviolet;
@@ -156,7 +156,7 @@ nav li a:hover{
      background-color: aliceblue;
  }
  .button2{
-    width: 10%;
+    width: 30%;
     height: 5vh;
     color: white;
     background-color: blueviolet;
@@ -172,8 +172,8 @@ nav li a:hover{
     background-color: aliceblue;
     
 }
-.button3{
-   width: 10%;
+.button1{
+   width: 30%;
    height: 5vh;
    color: white;
    background-color: blueviolet;
@@ -231,4 +231,30 @@ nav li a:hover{
         padding: 2em 0;
 
     }
-   
+    .button3{
+        width: 10%;
+        height: 5vh;
+        color: white;
+        background-color: blueviolet;
+        border-radius: 20px;
+        border-color: 10px solid blueviolet;
+        
+     }
+     .button2{
+        width: 10%;
+        height: 5vh;
+        color: white;
+        background-color: blueviolet;
+        border-radius: 20px;
+        border-color: 10px solid blueviolet;
+        
+     }
+     .button1{
+        width: 10%;
+        height: 5vh;
+        color: white;
+        background-color: blueviolet;
+        border-radius: 20px;
+        border-color: 10px solid blueviolet;
+        
+     }

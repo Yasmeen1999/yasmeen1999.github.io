@@ -145,7 +145,7 @@ nav li a:hover{
      color: white;
      background-color: blueviolet;
      border-radius: 20px;
-     border-color: 10px solid blueviolet;
+     border: 1px solid blueviolet;
      
  }
  /*skills*/
@@ -161,7 +161,7 @@ nav li a:hover{
     color: white;
     background-color: blueviolet;
     border-radius: 20px;
-    border-color: 10px solid blueviolet;
+    border: 1px solid blueviolet;
     
 }
 /*ABOUT*/
@@ -178,7 +178,7 @@ nav li a:hover{
    color: white;
    background-color: blueviolet;
    border-radius: 20px;
-   border-color: 10px solid blueviolet;
+   border: 1px solid blueviolet;
    
 }
 .about p{
@@ -237,7 +237,7 @@ nav li a:hover{
         color: white;
         background-color: blueviolet;
         border-radius: 20px;
-        border-color: 10px solid blueviolet;
+        border: 1px solid blueviolet;
         
      }
      .button2{
@@ -246,7 +246,7 @@ nav li a:hover{
         color: white;
         background-color: blueviolet;
         border-radius: 20px;
-        border-color: 10px solid blueviolet;
+        border: 1px solid blueviolet;
         
      }
      .button1{
@@ -255,6 +255,6 @@ nav li a:hover{
         color: white;
         background-color: blueviolet;
         border-radius: 20px;
-        border-color: 10px solid blueviolet;
-        
+        /* border: 1px solid blueviolet; */
+       
      }

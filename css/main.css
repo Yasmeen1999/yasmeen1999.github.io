@@ -6,7 +6,7 @@
 } */
     body{
 background-color: aliceblue;
-
+/* font-family:'kalam', cursive; */
 }
 
  .content{
@@ -126,7 +126,9 @@ nav li a:hover{
     align-items: center;
 }
 
+
 @media( min-width:1040px) {
+
     .container{
         grid-template-areas:
         "sidebar content"
@@ -156,7 +158,7 @@ nav li a:hover{
     .hero img{
         width: 250px;
         float: right;
-        }
+    }
 
     .hero h1{
         font-size: 3em;
@@ -172,4 +174,28 @@ nav li a:hover{
         padding: 2em 0;
 
      }
+     @keyframes fadeIn{
+        from{
+            opacity: 0;
+        }
+        to{
+            opacity: 1;
+        }
     }
+    .ref:nth-child(1){
+        animation: fadeIn 0.1s 0.2s  backwards;
+    }
+    /* .ref:nth-child(2){
+        animation: fadeIn 0.5s 1s  backwards;
+    }
+    .ref:nth-child(3){
+        animation: fadeIn 0.5s 1.5s  backwards;
+     }
+     ref:nth-child(4).{
+        animation: fadeIn 0.5s 2s  backwards;
+    } */
+    .ref:hover{
+        transform: scale(1.05);
+    }
+     }
+    

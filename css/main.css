@@ -102,9 +102,6 @@ nav li a:hover{
 .action-btn:hover {
     box-shadow: 0 10px 50px rgba(188,197,216,1);
 }
-
-
-
 .ref
 {
     margin: 0px;
@@ -125,6 +122,8 @@ nav li a:hover{
     font-size: 25px;
     align-items: center;
 }
+
+
 
 
 @media( min-width:1040px) {

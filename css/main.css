@@ -147,7 +147,7 @@ nav li a:hover{
         width: 60%;
     }
     .socialmedia{
-        /* width: 100%;   */
+        width: 100%;  
       list-style: none;
        display: flex; 
       justify-content: space-evenly;

@@ -51,11 +51,12 @@ body{
     border-radius: 7px;
 
 } */
-.skills p{
-  margin: 0px 100px; 
+.skills ul li{
+  margin: 0px 70px; 
  color: black;
  line-height: 1.6;
  font-size: 20px;
+ list-style: none;
 }
 .last-button{
     margin: 20px 90px;
@@ -74,6 +75,19 @@ body{
 .button:hover{
     opacity: 1;
         box-shadow: 0 10px 50px rgb(136, 148, 173);
+    }
+    footer{
+        
+        background-color: #392850;
+        color: white;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        padding-top: 10px;
+        height: 50px;
+        
     }
     @media( min-width:1040px){
        
